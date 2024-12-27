@@ -11,6 +11,7 @@ management:
   tracing:
     sampling:
       probability: 1.0
+
 logging:
   file:
     name: C:\Users\Prasanna Kumar Killa\OneDrive - Sage IT, Inc\Desktop\logs\elk-stack.log
